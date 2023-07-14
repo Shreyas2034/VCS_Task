@@ -1,0 +1,1 @@
+print("Always Hope never Expect")
